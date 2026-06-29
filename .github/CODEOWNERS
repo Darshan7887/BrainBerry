@@ -1,0 +1,20 @@
+# ─────────────────────────────────────────────────────────────────
+# BrainBerry – Code Owners
+# ─────────────────────────────────────────────────────────────────
+# This file defines the default reviewers for pull requests.
+# See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owner for everything in the repository
+*                   @Darshan7887
+
+# JavaScript source modules
+/src/js/            @Darshan7887
+
+# Documentation
+/docs/              @Darshan7887
+
+# HTML files (co-owned)
+*.html              @Darshan7887 @avishkar12006
+
+# Configuration files
+/config/            @Darshan7887
